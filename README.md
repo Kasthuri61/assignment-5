@@ -1,0 +1,8 @@
+![index 1](https://github.com/user-attachments/assets/1843ccba-f961-47c6-a54b-f43f475dcb00)
+![index 2](https://github.com/user-attachments/assets/2dc5d7a2-1dd3-458c-bdba-3b03e72d17fa)
+![experience](https://github.com/user-attachments/assets/a32694e7-1fb8-4c10-87c0-cf881e9d620f)
+![education](https://github.com/user-attachments/assets/432dc0bc-53dd-469f-a2cf-13257ca98489)
+![skills](https://github.com/user-attachments/assets/f9f4f481-d771-463c-a125-04b00996b381)
+![project](https://github.com/user-attachments/assets/25877ef3-5d6f-4b6a-b46b-8df16e60ab8e)
+![contact](https://github.com/user-attachments/assets/52e1bb89-c9ef-403f-96f0-fa26176c03c4)
+![thank you](https://github.com/user-attachments/assets/16fa7fe1-31b0-48d6-9502-25536bedc8e8)
